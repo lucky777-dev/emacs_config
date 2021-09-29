@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: export-latex
+# key: <be-l
+# group: latex 
+# --
+#+begin_export latex
+$0
+#+end_export

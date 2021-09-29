@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: java
+# key: <j
+# --
+
+#+begin_src java :placement [H]
+$0
+#+end_src

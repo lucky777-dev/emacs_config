@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Color box
+# key: <colb
+# --
+\\colorbox{luckysoft$1}{$2}$0

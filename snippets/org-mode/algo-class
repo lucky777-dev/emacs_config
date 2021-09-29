@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Classe Algo
+# key: <classe
+# --
+\Class{${1:className}}{
+  $0
+}

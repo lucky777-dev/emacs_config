@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Réponse non vérifiée par un enseignant
+# key: <notsure
+# --
+\\textcolor{luckydarkred}{Solution non vérifiée pas un enseignant... Attention aux erreurs!}

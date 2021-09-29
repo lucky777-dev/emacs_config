@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: array attr_latex
+# key: <array
+# --
+#+attr_latex: :align |c| :placement [H]
+$0

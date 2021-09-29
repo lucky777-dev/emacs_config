@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: SFraction
+# key: <sfrac
+# --
+\\sfrac{$1}{$2}$0

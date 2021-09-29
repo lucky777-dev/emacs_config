@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Insert Picture
+# key: <picture
+# --
+#+caption: $1
+#+attr_latex: :width $2px :placement [H]
+file:$0

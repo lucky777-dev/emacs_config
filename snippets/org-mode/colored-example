@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Exemple (en gris)
+# key: <cexe
+# --
+\\color{luckydarkgray}(Ex: $1)\\color{black}$0

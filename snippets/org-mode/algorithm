@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Algorithm Code
+# key: <algo
+# --
+\\begin{algorithm}[H]
+$0
+\\caption{}
+\\end{algorithm}

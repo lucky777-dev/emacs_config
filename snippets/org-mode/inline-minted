@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: minted-lined
+# key: <mil
+# group: latex
+# --
+\\mintinline{${1:lang}}{${2:cmd}}$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Press enter
+# key: <prenter
+# --
+\\textcolor{luckydarkgray}{(--> Press enter)}$0

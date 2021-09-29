@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: array param
+# key: <arraypar
+# --
+\\textbf{array of} n $\times$ m \textbf{${0:type}}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Color text in dark gray
+# key: <colgray
+# --
+\\color{luckydarkgray}$1\\color{black}$0

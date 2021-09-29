@@ -1,0 +1,11 @@
+1. Update elpa
+
+    M+x
+    package-install
+    gnu-elpa-keyring-update
+
+2. Install rustic
+
+    M+x
+    package-install
+    rustic

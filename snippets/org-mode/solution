@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Solution
+# key: <solution
+# --
+\\color{luckydarkgreen} *= $1*\color{black}$0

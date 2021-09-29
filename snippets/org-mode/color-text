@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Color text
+# key: <col
+# --
+\\color{$1}
+$2
+\\color{black}
+$0

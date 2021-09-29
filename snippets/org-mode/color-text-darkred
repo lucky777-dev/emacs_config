@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Color text in dark red
+# key: <colred
+# --
+\\color{luckydarkred}$1\\color{black}$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Public Algo
+# key: <public
+# --
+\Public{}{
+  $0
+}

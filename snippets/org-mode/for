@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Loop For
+# key: <for
+# --
+\\For{${1:condition}}{
+  ${2:instructions}
+}
+$0

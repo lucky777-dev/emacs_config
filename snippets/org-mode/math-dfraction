@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dFraction
+# key: <dfrac
+# --
+$\\dfrac{$1}{$2}$$0

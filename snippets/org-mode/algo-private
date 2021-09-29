@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Private Algo
+# key: <private
+# --
+\Private{}{
+  $0
+}

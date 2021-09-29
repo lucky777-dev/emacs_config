@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Start file
+# key: <startf
+# --
+#+latex_class: luckypdf
+#+language: fr
+#+title: $1
+#+author: Sm!le42
+
+$0

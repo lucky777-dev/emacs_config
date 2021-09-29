@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Exemple
+# key: <exe
+# --
+**** *Exemple:* $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Date of last test 2021
+# key: <dlt
+# --
+**** *Date of last test:* 2021
+$0

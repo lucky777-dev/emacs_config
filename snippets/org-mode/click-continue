@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Click on continue
+# key: <clcont
+# --
+\\textcolor{luckydarkgray}{(--> Click on continue)}$0

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Function Algorithm
+# key: <fn
+# --
+\\SetKwProg{Fn}{${1:fnName}}{ :}{end}
+ \\Fn{}{
+  $0
+ }

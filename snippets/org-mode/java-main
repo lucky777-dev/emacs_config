@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Java main method
+# key: jmain
+# --
+public static void main(String[] args) {$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ColorBox Green
+# key: <cbg
+# --
+\\colorbox{luckysoftgreen}{$1}$0

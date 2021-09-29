@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ColorBox Yellow
+# key: <cby
+# --
+\\colorbox{luckysoftyellow}{$1}$0

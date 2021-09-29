@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: begin-align-star
+# key: b_
+# group: latex 
+# --
+\\begin{align*}
+  $0
+\\end{align*}
