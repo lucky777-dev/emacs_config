@@ -1,31 +1,35 @@
-1. Install texlive-latex-base
-    
-    `sudo apt install texlive-latex-base`
+### Install texlive-latex-base
 
-2. Install pygments
+    sudo apt install texlive-latex-base
+    
+### Install pygments
 
-    `sudo apt install python3-pygments`
+    sudo apt install python3-pygments
+    
+### Install texlive-science (for algorithm2e)
 
-3. Install texlive-science (for algorithm2e)
+    sudo apt install texlive-science
+    
+### Install aspell (fr and en)
 
-    `sudo apt install texlive-science`
+    sudo apt install aspell-fr aspell-en
     
-4. Install aspell (fr and en)
-    
-    `sudo apt install aspell-fr aspell-en`
-    
-5. Start emacs
-    
-6. Update elpa
+# Start emacs
+
+### Update elpa
 
     M+x
-    `package-install`
-    `gnu-elpa-keyring-update`
-
-7. Install rustic
+    
+    package-install
+    
+    gnu-elpa-keyring-update
+    
+### Install rustic
 
     M+x
-    `package-install`
-    `rustic`
+    
+    package-install
+    
+    rustic
 
-8. Make new .org file and write '<startfile' then TAB
+### Make new .org file and write '<startfile' then TAB
